@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Office Performance
-============================================================
 
 As businesses continue to invest in artificial intelligence (AI) technologies to improve office productivity and performance, it is important to assess the effectiveness of these investments. In this chapter, we will explore strategies for evaluating the impact of AI on office performance.
 

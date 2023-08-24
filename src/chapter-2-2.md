@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Office Work
-=========================================================================================================================
 
 Artificial intelligence (AI) technology has the potential to revolutionize the way offices operate, leading to increased efficiency, improved accuracy, and enhanced decision-making. There are many types of AI techniques and applications that can be used in the office. In this chapter, we'll explore some of these techniques and applications and how they relate to office work.
 

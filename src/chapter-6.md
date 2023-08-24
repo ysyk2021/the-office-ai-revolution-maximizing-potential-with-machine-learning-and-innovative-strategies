@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Office Workflows
-===============================================
 
 Artificial intelligence (AI) has the potential to significantly impact office workflows, transforming the way work is done and improving overall productivity and efficiency. In this chapter, we'll explore how AI-enabled systems can improve workflow automation, reduce the time and effort required for daily tasks, and increase job satisfaction and motivation among employees.
 

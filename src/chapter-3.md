@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI in the Office
-================================================
 
 Artificial intelligence (AI) technology can revolutionize the way offices operate, leading to increased efficiency, improved accuracy, and enhanced decision-making. However, effective AI implementation requires careful planning and execution. In this chapter, we'll explore how offices can get started with AI in the office by identifying workplace issues and challenges that can benefit from AI, selecting the right AI tools and platforms for their needs, and creating a customized roadmap for AI implementation.
 

@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Office Work
-======================================================
 
 Artificial Intelligence (AI) is transforming the way we work, and understanding its basic concepts and processes is essential for success in today's office environment. In this chapter, we'll explore the different types of AI techniques and applications for office work, as well as the tools and platforms available for AI-enabled office work.
 

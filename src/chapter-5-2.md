@@ -1,5 +1,3 @@
-Enhancing Creativity and Innovation with AI-Enabled Idea Generation and Brainstorming
-==============================================================================================================================================
 
 As businesses seek to maximize the potential of artificial intelligence (AI) technologies in the office setting, one key area of focus is how AI can enhance creativity and innovation. In this chapter, we will explore strategies for leveraging AI to boost team productivity through AI-enabled idea generation and brainstorming.
 

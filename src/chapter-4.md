@@ -1,5 +1,3 @@
-Chapter 4: AI Techniques for Enhancing Office Performance
-=========================================================
 
 Artificial intelligence (AI) technology offers powerful tools for enhancing office performance, from automating repetitive tasks to improving decision-making through predictive analytics and data visualization. In this chapter, we'll explore several techniques for enhancing office performance with AI.
 

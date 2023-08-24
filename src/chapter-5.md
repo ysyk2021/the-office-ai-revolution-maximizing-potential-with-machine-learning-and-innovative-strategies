@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Boosting Team Productivity
-=======================================================
 
 In order to stay competitive in today's fast-paced business environment, it's essential for teams to be highly productive and efficient. Artificial intelligence (AI) technology can provide a number of strategies for boosting team productivity, from task management and prioritization to idea generation and personalized learning and development. In this chapter, we'll explore some of the key AI strategies for boosting team productivity.
 

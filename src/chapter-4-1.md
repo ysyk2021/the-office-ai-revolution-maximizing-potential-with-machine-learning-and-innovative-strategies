@@ -1,5 +1,3 @@
-Automating Repetitive Tasks with Robotic Process Automation (RPA)
-============================================================================================================================
 
 Repetitive tasks are a common feature of office work, and they can often lead to low productivity and employee burnout. Fortunately, artificial intelligence (AI) technology offers a solution to this problem in the form of Robotic Process Automation (RPA). In this chapter, we'll explore how RPA can help offices automate repetitive tasks and enhance overall performance.
 

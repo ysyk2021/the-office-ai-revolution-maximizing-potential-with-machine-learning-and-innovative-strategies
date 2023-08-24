@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Office Work
-======================================================================================================
 
 Artificial intelligence (AI) technology has the potential to revolutionize the way offices operate, leading to increased efficiency, improved accuracy, and enhanced decision-making. To effectively implement AI in the office, it's essential to choose the right tools and platforms. In this chapter, we'll explore the tools and platforms available for AI-enabled office work.
 

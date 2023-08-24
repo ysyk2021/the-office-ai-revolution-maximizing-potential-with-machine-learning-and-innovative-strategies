@@ -1,5 +1,3 @@
-Improving Workflow Automation with AI-enabled Systems
-======================================================================================================
 
 One of the key areas where artificial intelligence (AI) is expected to have a significant impact on office workflows is in automating repetitive tasks and streamlining workflows. In this chapter, we'll explore how AI-enabled systems can improve workflow automation in the office setting.
 

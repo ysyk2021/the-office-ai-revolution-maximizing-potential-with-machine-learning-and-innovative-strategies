@@ -1,5 +1,3 @@
-The Emergence and Development of AI in Office Settings
-===============================================================================
 
 Artificial intelligence (AI) has rapidly emerged as a powerful tool for businesses in a wide range of industries, including office settings. In this chapter, we'll explore the emergence and development of AI in office settings.
 

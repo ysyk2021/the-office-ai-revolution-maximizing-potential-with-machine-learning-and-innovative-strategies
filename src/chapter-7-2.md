@@ -1,5 +1,3 @@
-Identifying Key Performance Metrics and Goals for AI-Enhanced Office Work
-=======================================================================================================================================
 
 While the use of artificial intelligence (AI) technologies can lead to significant improvements in office performance, it is crucial that businesses carefully evaluate the impact of these technologies in order to identify key performance metrics and goals. In this chapter, we'll explore how businesses can evaluate the impact of AI on office performance and set clear goals and metrics for AI-enhanced office work.
 

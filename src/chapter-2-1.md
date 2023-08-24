@@ -1,5 +1,3 @@
-Basic Concepts and Processes of Machine Learning Algorithms for Office Work
-===================================================================================================================================
 
 Artificial Intelligence (AI) is rapidly transforming the way we work, and understanding its basic concepts and processes is essential for success in today's office environment. In this chapter, we'll explore the basic concepts and processes of machine learning algorithms for office work.
 
