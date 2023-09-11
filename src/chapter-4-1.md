@@ -1,5 +1,4 @@
-Chapter 5: Automating Repetitive Tasks with Robotic Process Automation (RPA)
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The Office AI Revolution: Maximizing Potential with Machine Learning and Innovative Strategies," we will explore the concept of automating repetitive tasks using Robotic Process Automation (RPA). RPA involves leveraging software robots or "bots" to mimic human actions and automate mundane, rule-based tasks. We will delve into the benefits of RPA and provide insights on how organizations can implement it to maximize efficiency and productivity.
 

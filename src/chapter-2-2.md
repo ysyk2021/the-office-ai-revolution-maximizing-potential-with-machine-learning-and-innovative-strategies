@@ -1,5 +1,4 @@
-Chapter 11: Different Types of AI Techniques and Applications for Office Work
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The Office AI Revolution: Maximizing Potential with Machine Learning and Innovative Strategies," we will explore different types of AI techniques and their applications in office work. Artificial Intelligence offers a diverse range of techniques that can revolutionize various aspects of office operations, including communication, decision-making, automation, and productivity. We will delve into these techniques and provide insights on how they can be applied effectively in an office environment.
 

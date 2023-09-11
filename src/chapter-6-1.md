@@ -1,5 +1,4 @@
-Chapter 6: Improving Workflow Automation with AI-Enabled Systems
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The Office AI Revolution: Maximizing Potential with Machine Learning and Innovative Strategies," we will explore the utilization of AI-enabled systems to improve workflow automation. AI technology has the potential to revolutionize how organizations streamline their processes, enhance decision-making, and optimize efficiency. We will discuss the benefits of AI in workflow automation and provide insights on implementing AI-enabled systems effectively.
 
